@@ -1,0 +1,8 @@
+E:\TTC I\Git Hub\TCC\JOE\bin\Debug\netcoreapp2.0\JOE.deps.json
+E:\TTC I\Git Hub\TCC\JOE\bin\Debug\netcoreapp2.0\JOE.runtimeconfig.json
+E:\TTC I\Git Hub\TCC\JOE\bin\Debug\netcoreapp2.0\JOE.runtimeconfig.dev.json
+E:\TTC I\Git Hub\TCC\JOE\bin\Debug\netcoreapp2.0\JOE.dll
+E:\TTC I\Git Hub\TCC\JOE\obj\Debug\netcoreapp2.0\JOE.csprojResolveAssemblyReference.cache
+E:\TTC I\Git Hub\TCC\JOE\obj\Debug\netcoreapp2.0\JOE.csproj.CoreCompileInputs.cache
+E:\TTC I\Git Hub\TCC\JOE\obj\Debug\netcoreapp2.0\JOE.AssemblyInfoInputs.cache
+E:\TTC I\Git Hub\TCC\JOE\obj\Debug\netcoreapp2.0\JOE.AssemblyInfo.cs
